@@ -6,7 +6,7 @@ body {
 }
 
 .main-content {
-    background-image: url(/images/background-plane.jpg);
+    background-image: url(./images/background-plane.jpg);
     background-size: 100%;
     width: 1270px;
     height: 650px;
